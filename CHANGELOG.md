@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/phoothsas/greetings-ci/compare/v0.6.0...v0.7.0) (2024-02-16)
+
+
+### Features
+
+* add testing to pipeline ([6c6a3ec](https://github.com/phoothsas/greetings-ci/commit/6c6a3ec3109535780bae0927ae047512802e1070))
+
+
+
 # [0.6.0](https://github.com/phoothsas/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-16)
 
 
@@ -33,17 +42,6 @@
 
 * upload artifact ([968f971](https://github.com/phoothsas/greetings-ci/commit/968f971e478409854e77169df220ff97f811f0d7))
 * upload artifact ([431d8ff](https://github.com/phoothsas/greetings-ci/commit/431d8ff541bc395fc0ecf5163e4fee05030dd0a7))
-
-
-
-# [0.2.0](https://github.com/phoothsas/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-14)
-
-
-### Features
-
-* upload artifact ([61d4037](https://github.com/phoothsas/greetings-ci/commit/61d4037ea62c5c8d145018763d9f2fb25c2dcc32))
-* upload artifact ([f1769bb](https://github.com/phoothsas/greetings-ci/commit/f1769bb3671224482e4982d078edba3d6a9c477a))
-* upload artifact ([0aca07c](https://github.com/phoothsas/greetings-ci/commit/0aca07ca38007cceedc4b4abb0fb0ba8aa543892))
 
 
 
