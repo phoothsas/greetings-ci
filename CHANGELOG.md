@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/phoothsas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-16)
+
+
+### Features
+
+* version artifact ([dcad69a](https://github.com/phoothsas/greetings-ci/commit/dcad69a7d01fa085f90e0a3653bce64d81dca88b))
+
+
+
 # [0.3.0](https://github.com/phoothsas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-16)
 
 
