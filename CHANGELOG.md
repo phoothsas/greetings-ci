@@ -1,3 +1,12 @@
+# [0.8.0](https://github.com/phoothsas/greetings-ci/compare/v0.7.0...v0.8.0) (2024-02-16)
+
+
+### Features
+
+* update main ([71d657d](https://github.com/phoothsas/greetings-ci/commit/71d657dbc86bd0d9e2a69fefef050e80eac13b8b))
+
+
+
 # [0.7.0](https://github.com/phoothsas/greetings-ci/compare/v0.6.0...v0.7.0) (2024-02-16)
 
 
@@ -32,16 +41,6 @@
 ### Features
 
 * version artifact ([dcad69a](https://github.com/phoothsas/greetings-ci/commit/dcad69a7d01fa085f90e0a3653bce64d81dca88b))
-
-
-
-# [0.3.0](https://github.com/phoothsas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-16)
-
-
-### Features
-
-* upload artifact ([968f971](https://github.com/phoothsas/greetings-ci/commit/968f971e478409854e77169df220ff97f811f0d7))
-* upload artifact ([431d8ff](https://github.com/phoothsas/greetings-ci/commit/431d8ff541bc395fc0ecf5163e4fee05030dd0a7))
 
 
 
