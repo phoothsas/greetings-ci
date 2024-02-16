@@ -1,3 +1,13 @@
+# [0.5.0](https://github.com/phoothsas/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-16)
+
+
+### Features
+
+* add testing to pipeline ([e4a557d](https://github.com/phoothsas/greetings-ci/commit/e4a557d605b659bd4bab3ac1fb6b4ab7290a6e07))
+* add testing to pipeline ([47d320e](https://github.com/phoothsas/greetings-ci/commit/47d320e40b463d18101f7c59b872cd1e5934c7ed))
+
+
+
 # [0.4.0](https://github.com/phoothsas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-16)
 
 
